@@ -8,7 +8,7 @@
 </p>
 
 ## About L-Blog
-##fronend
+## fronend
 ==================
 0.SEO friendly
 
