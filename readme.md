@@ -23,7 +23,7 @@
 
 
 
-##adminpanel
+adminpanel
 ======================
 1.Advanced AdminPanel</br>
 2.pageviews summary</br>
