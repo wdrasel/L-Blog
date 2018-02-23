@@ -12,10 +12,10 @@
 ==================
 0.SEO friendly
 
-1.Widget:Popular post
-2.Widget:Latest Post
-3.Widget:Tags
-4.Widget:ACHIVES
+1.Widget:Popular post </hr>
+2.Widget:Latest Post </br>
+3.Widget:Tags</br>
+4.Widget:ACHIVES</br>
 
 5.Multiple tag section
 6.Post list layout
