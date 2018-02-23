@@ -24,7 +24,6 @@
 
 
 ## L-Blog Adminpanel Feature
-======================
 1.Advanced AdminPanel</br>
 2.pageviews summary</br>
 3.Post Management</br>
