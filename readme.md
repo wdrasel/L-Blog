@@ -8,7 +8,7 @@
 </p>
 
 ## About L-Blog
-==================</br>
+</br>
 0.SEO friendly</br>
 1.Widget:Popular post </br>
 2.Widget:Latest Post </br>
@@ -23,7 +23,7 @@
 
 
 
-#adminpanel
+##adminpanel
 ======================
 1.Advanced AdminPanel</br>
 2.pageviews summary</br>
