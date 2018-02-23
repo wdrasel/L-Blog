@@ -8,9 +8,8 @@
 </p>
 
 ## About L-Blog
-==================
-0.SEO friendly
-
+==================</br>
+0.SEO friendly</br>
 1.Widget:Popular post </br>
 2.Widget:Latest Post </br>
 3.Widget:Tags</br>
