@@ -32,15 +32,17 @@
 5.Scheduled post</br>
 6.Draft</br>
 7.Trash</br>
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## L-Blog Fronend Preview 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/28066616/36609058-e4c577ae-18f5-11e8-9e69-6e5cefb9aace.png" alt="Build Status"></p>
 
-## L-Blog Fronend Preview
+## L-Blog Adminpanel Preview
 
 <p align="center"><img src="https://user-images.githubusercontent.com/28066616/36609093-fb2b0932-18f5-11e8-8abf-a3ac7a66b27a.png" alt="Build Status"></p>
 
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
