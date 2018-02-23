@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About L-Blog
+## L-Blog Fronend Feature
 </br>
 0.SEO friendly</br>
 1.Widget:Popular post </br>
@@ -23,7 +23,7 @@
 
 
 
-adminpanel
+## L-Blog Adminpanel Feature
 ======================
 1.Advanced AdminPanel</br>
 2.pageviews summary</br>
