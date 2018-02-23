@@ -8,8 +8,33 @@
 </p>
 
 ## About L-Blog
+#fronend
+==================
+0.SEO friendly
 
-https://user-images.githubusercontent.com/28066616/36609035-d4e8857e-18f5-11e8-9117-5f144d47e5b5.png
+1.Widget:Popular post
+2.Widget:Latest Post
+3.Widget:Tags
+4.Widget:ACHIVES
+
+5.Multiple tag section
+6.Post list layout
+7.Unlimited Post categories
+8.search option 
+9.Ultra responsive
+
+
+
+#adminpanel
+======================
+1.Advanced AdminPanel
+2.pageviews summary
+3.Post Management
+3.User Management
+4.User Access Control 
+5.Scheduled post
+6.Draft
+7.Trash
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
